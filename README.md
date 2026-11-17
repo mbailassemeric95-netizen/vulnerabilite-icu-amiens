@@ -19,7 +19,7 @@ ArcGIS Pro, ArcPy, Python, ArcGIS Online, Experience Builder et ArcGIS Dashboard
 ## Application interactive
 https://gu-utc.maps.arcgis.com/apps/dashboards/0bc309a159504fe5b1360a4800617e86
 ## Aperçu
-[Captures d'écran à insérer]
+![Interface webcarto](icu_amiens_webcarto.png)
 
 ## Résultats
 Visualisation cartographique des indicateurs et exploration interactive des différents scénarios de vulnérabilité.
